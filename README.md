@@ -25,3 +25,4 @@ Open the folder in VS Code and start it with the Live Server extension (or just 
 - `index.html` – page structure
 - `style.css` – styling
 - `app.js` – state, rendering, events, storage
+- 'link'-file:///C:/Users/HP/Downloads/To-Do%20List%20with%20LocalStorage.html
